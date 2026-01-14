@@ -67,37 +67,17 @@
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=El%20código%20es%20poesía%20que%20resuelve%20problemas&author=Wanda%20Hernández" alt="Quote"/>
-
-<br/><br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-<br/>
+<br/><br/>
 
-| 🎯 **2024-2026** | 📈 **En constante crecimiento** |
-|:---:|:---:|
-| `14+ repositorios` | `Full Stack Developer` |
-| `Apps en producción` | `Aprendizaje continuo` |
+⭐ **¿Te gustó algún proyecto? ¡Dejá una star!** ⭐
 
 <br/>
-
-```
-   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣤⣤⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-   ⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⡟⠁⠀⠈⢻⣿⣷⣄⠀⠀⠀⠀⠀⠀
-   ⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣧⣀⣀⣀⣼⣿⣿⣿⣧⠀⠀⠀⠀⠀
-   ⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀
-   ⠀⠀⠀⠀⠀⠈⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠁⠀⠀⠀⠀
-   ⠀⠀ ⠀⠀⠀⠀⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠀⠀⠀⠀⠀
-   ⠀⠀⠀⠀⠀⠀⠀⠀⠙⠻⣿⣿⣿⣿⠿⠋⠀⠀⠀⠀⠀⠀⠀
-   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-
-        Made with 💜 & ☕ in Argentina
-```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:ec4899&height=100&section=footer"/>
 
