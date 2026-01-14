@@ -67,41 +67,38 @@
 
 <div align="center">
 
-## 💬 ¡Conectemos!
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Hi" width="60" />
-
-**¿Tenés un proyecto en mente? ¡Hablemos!**
-
-<br/>
-
-<a href="https://wandasolangehernandez.vercel.app/">
-  <img src="https://img.shields.io/badge/🚀_Ver_Portfolio-FF6B6B?style=for-the-badge" alt="Portfolio"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/wanda-solange-hernandez/">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:wandasolangehernandez@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge" alt="Email"/>
-</a>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=El%20código%20es%20poesía%20que%20resuelve%20problemas&author=Wanda%20Hernández" alt="Quote"/>
 
 <br/><br/>
 
-```js
-while (alive) {
-    eat();
-    sleep();
-    code();
-    repeat();
-}
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
 
 <br/>
 
-![Snake animation](https://raw.githubusercontent.com/wandahernandez1/wandahernandez1/output/github-snake-dark.svg)
+| 🎯 **2024-2026** | 📈 **En constante crecimiento** |
+|:---:|:---:|
+| `14+ repositorios` | `Full Stack Developer` |
+| `Apps en producción` | `Aprendizaje continuo` |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<br/>
+
+```
+   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣤⣤⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+   ⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⡟⠁⠀⠈⢻⣿⣷⣄⠀⠀⠀⠀⠀⠀
+   ⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣧⣀⣀⣀⣼⣿⣿⣿⣧⠀⠀⠀⠀⠀
+   ⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀
+   ⠀⠀⠀⠀⠀⠈⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠁⠀⠀⠀⠀
+   ⠀⠀ ⠀⠀⠀⠀⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠀⠀⠀⠀⠀
+   ⠀⠀⠀⠀⠀⠀⠀⠀⠙⠻⣿⣿⣿⣿⠿⠋⠀⠀⠀⠀⠀⠀⠀
+   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+        Made with 💜 & ☕ in Argentina
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:ec4899&height=100&section=footer"/>
 
 </div>
