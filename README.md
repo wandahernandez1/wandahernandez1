@@ -4,9 +4,9 @@
 
 **Full Stack Developer** | React · TypeScript · Node.js · NestJS
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000?style=for-the-badge)](https://portfolio-gules-one-88.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wanda-solange-hernandez)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wandahernandez.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000?style=for-the-badge)](https://wandasolangehernandez.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wanda-solange-hernandez/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wandasolangehernandez@gmail.com)
 
 </div>
 
