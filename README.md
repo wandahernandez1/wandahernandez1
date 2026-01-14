@@ -65,11 +65,43 @@
 
 ---
 
-
 <div align="center">
 
-### 💡 *Transformando ideas en código*
+## 💬 ¡Conectemos!
 
-⭐ **¿Te gustó algún proyecto? Dejá una star!**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Hi" width="60" />
+
+**¿Tenés un proyecto en mente? ¡Hablemos!**
+
+<br/>
+
+<a href="https://wandasolangehernandez.vercel.app/">
+  <img src="https://img.shields.io/badge/🚀_Ver_Portfolio-FF6B6B?style=for-the-badge" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/wanda-solange-hernandez/">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:wandasolangehernandez@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge" alt="Email"/>
+</a>
+
+<br/><br/>
+
+```js
+while (alive) {
+    eat();
+    sleep();
+    code();
+    repeat();
+}
+```
+
+<br/>
+
+![Snake animation](https://raw.githubusercontent.com/wandahernandez1/wandahernandez1/output/github-snake-dark.svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
