@@ -1,6 +1,6 @@
 <div align="center">
 
-# Wanda Hernández 👩‍💻
+# Wanda Solange Hernández 👩‍💻
 
 **Full Stack Developer** | React · TypeScript · Node.js · NestJS
 
